@@ -1,7 +1,7 @@
   <div>
   <h1 align="center">Olá, eu sou o Rony ;)</h1>
-  <hr>
   
+  <h3>- Conhecimentos adiquiridos -</h3>
   <h3>Linguagens</h3>
 <p align="left"> 
 
