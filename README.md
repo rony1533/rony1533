@@ -3,28 +3,21 @@
     <br>Prazer em te ver aqui eu sou o Rony </h1>
   
   
+  <h3>Redes Sociais</h3>
+  <p>
   <a href="https://www.linkedin.com/in/rony-sobral-5504381b4/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/rony_sobral3/"><img height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  
-
-  
+  </p>
   
   <h3>- Conhecimentos adiquiridos -</h3>
   <h3>Linguagens</h3>
 <p align="left"> 
-
-
-  
    <a><img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
    <a><img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
    <a><img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
    <a><img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
    <a><img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
    <a><img height="25" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
-  
-  
-
-
 </p>
   
 
