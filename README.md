@@ -2,6 +2,13 @@
   <h1 align="center">Bem vindo a minha pagina!!
     <br>Prazer em te ver aqui eu sou o Rony </h1>
   
+  
+  <a href="https://www.linkedin.com/in/rony-sobral-5504381b4/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/rony_sobral3/"><img height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  
+
+  
+  
   <h3>- Conhecimentos adiquiridos -</h3>
   <h3>Linguagens</h3>
 <p align="left"> 
