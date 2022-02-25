@@ -1,6 +1,6 @@
   <div>
   <h1 align="center">Bem vindo a minha pagina!!
-    <br>Prazer em te ver aqui eu sou o Rony </h1>
+    <br>Prazer em ter você aqui eu sou o Rony </h1>
   
   
   <h3>Redes Sociais</h3>
