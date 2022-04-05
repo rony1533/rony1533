@@ -18,6 +18,9 @@
    <a><img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
    <a><img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
    <a><img height="25" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
+   <a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+   <a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></a>
+   <a><img src="https://img.shields.io/badge/-Spring%20Boot-333333?style=for-the-badget&logo=spring-boot"></a>
 </p>
   
 
