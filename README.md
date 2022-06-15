@@ -68,8 +68,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=true&layout=default &card_width=320&langs_count=5&theme=tokyonight&hide_border=true&username=rony1533" height="160" alt="languages graph"  />
 </div>
 
-###
-<img href="https://github.com/rony1533/rony1533/blob/output/snake.svg" alt="Snake animation" />
-
-###
-Profile Readme Generator
