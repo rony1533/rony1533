@@ -1,16 +1,7 @@
   <div>
   <h1 align="center">Bem vindo a minha pagina!!
-    <br>Prazer em ter você aqui eu sou o Rony </h1>
+    <br>Prazer em ter você aqui.</h1>
   
-  
-  <h3 align="center">Rede sociais</h3>
-
-###
-<div align="center">
-  <a href="https://www.linkedin.com/in/rony-sobral-5504381b4/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 <h3 align="center">Linguagens</h3>
